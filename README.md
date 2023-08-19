@@ -35,4 +35,4 @@ The Library System Webpage project is designed to provide users with a user-frie
 
 ## Live Demo
 
-You can access the live demo of the Library System Webpage [here](add-live-link-here).
+You can access the live demo of the Library System Webpage [here](https://sidd444.github.io/Library-System-Webpage/).
